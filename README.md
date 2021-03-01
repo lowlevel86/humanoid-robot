@@ -1,6 +1,6 @@
 # humanoid-robot
 
-Open-source plans for a "simple as possible", useful, safe and robust robot hardware.  
+Open-source plans for "simple as possible", useful, safe and robust robot hardware.  
 
 ### This robot should be able to... 
 * write or draw as well as a human.
