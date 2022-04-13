@@ -19,7 +19,7 @@ The robot is driven by what I will call an "automatic internal string-puppet eng
 
 ![Humanoid Robot](imgs/robot_wire.png)
 
-The automatic internal string-puppet engine has one large motor which spin discs that can pull strings depending on the state of smaller actuators.
+The automatic internal string-puppet engine has one large motor which spin disks that can pull strings depending on the state of smaller actuators.
 
 ![AISPE](imgs/robot_AISPE.png)
 
@@ -32,3 +32,12 @@ The automatic internal string-puppet engine has one large motor which spin discs
 ![Pin Pulley](imgs/pinPulley2.gif)
 
 ![Motor with Pulleys](imgs/pulleyL.jpg) ![Motor with Pulleys](imgs/pulleyR.jpg)
+
+![CNC Pulley](imgs/cnc_pulleyA.png)
+
+![CNC Pulley](imgs/cnc_pulleyB.png)
+
+### Concept Art of the CNC Pulley
+
+The CNC pulley uses a slip ring to make electrical connections to micro motors within pulley disks. The electrical wires could travel up a channel through a keyed shaft.
+
